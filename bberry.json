@@ -1,104 +1,75 @@
 {
-    "WBUI2":
-    {
-        "settings":
-        {
-            "openbutton": 0,
-            "hideicon": true,
-            "hideiconafter": 30,
-            "iconurl": "https://i.imgur.com/Htyo4fj.png",
-            "disableicontext": true,
-            "iconposition": 0,
-            "icontextcolor": 0,
-            "openonstart": true,
-            "openonstartonlynewplayers": true,
-            "updateinterval": 24
-        },
-        "tabs": [
-            {
-                "layout": 1,
-                "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Welcome to BlackBerry Cluster!",
-                        "text": "<TextStyle.LightBlue>🌴 Welcome to BLACKBERRY ASA Server 🌴</>\n\n<RichColor Color=\"1,0.9,0,1\">Survive. Build. Dominate.</>\n\n<TextStyle.White>Welcome survivor! We are glad to see you on our server.</>\n<TextStyle.White>Build your tribe, explore the map and become the strongest.</>\n\n<RichColor Color=\"0,1,0,1\">Server Features:</>\n<TextStyle.White>• Active administration</>\n<TextStyle.White>• Balanced gameplay</>\n<TextStyle.White>• Events and rewards</>\n<TextStyle.White>• Friendly community</>\n\n<RichColor Color=\"1,0.5,0,1\">Important Rules:</>\n<TextStyle.White>• Respect other players</>\n<TextStyle.White>• No cheats or exploits</>\n<TextStyle.White>• Follow admin instructions</>\n\n<RichColor Color=\"0,0.8,1,1\">Useful Links:</>\n<TextStyle.LightBlue>🌐 Website: blackberry.survivalshop.org</>\n<TextStyle.LightBlue>💎 Donate Shop: blackberry.survivalshop.org/shop</>\n\n<RichColor Color=\"1,0.3,0.3,1\">Good luck survivor!</>\n<TextStyle.White>The adventure begins now...</>"
-                ]
-            },
-            {
-                "layout": 2,
-                "buttontext": "2 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Left title",
-                        "text": "This text goes into the left box"
-                    },
-                    {
-                        "title": "Right title",
-                        "text": "This text goes into the right box"
-                    }
-                ]
-            },
-            {
-                "layout": 3,
-                "buttontext": "3 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Left title",
-                        "text": "This text goes into the left box"
-                    },
-                    {
-                        "title": "Top right title",
-                        "text": "This text goes into the top right box"
-                    },
-                    {
-                        "title": "Bottom right title",
-                        "text": "This text goes into the bottom right box"
-                    }
-                ]
-            },
-            {
-                "layout": 4,
-                "buttontext": "4 Box layout",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
-                "content": [
-                    {
-                        "title": "Top left title",
-                        "text": "<TextStyle.Orange>This text goes into the top left box</>"
-                    },
-                    {
-                        "title": "<TextStyle.Green>Top right title</>",
-                        "text": "<TextStyle.Violet>This text goes into the top right box</>"
-                    },
-                    {
-                        "title": "<TextStyle.Blue>Bottom left title</>",
-                        "text": "<TextStyle.Red>This text goes into the bottom left box</>"
-                    },
-                    {
-                        "title": "<TextStyle.Yellow>Bottom right title</>",
-                        "text": "<TextStyle.White>This text goes into the bottom right box</>"
-                    }
-                ]
-            }
-        ],
-        "links": [
-			{
-				"text": "Discord",
-				"url": "https://discord.gg/blackberry"
-			},
-			{
-				"text": "Store",
-				"url": "https://bberry.survivalshop.org"
-			}
-        ],
-        "version": 2
-    }
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": true,
+      "hideiconafter": 30,
+      "iconurl": "https://i.imgur.com/Htyo4fj.png",
+      "disableicontext": true,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 24
+    },
 
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "<RichColor Color=\"0.8,0.4,1,1\">WELCOME</>",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"0.7,0.9,1,1\">Welcome to BlackBerry Cluster</>",
+            "text": "<TextStyle.LightBlue>🌴 Welcome to BLACKBERRY ASA Server 🌴</>\n\n<RichColor Color=\"1,0.9,0,1\">Survive • Build • Dominate</>\n\n<TextStyle.White>Welcome survivor!</>\n<TextStyle.White>We are glad to see you on our server.</>\n<TextStyle.White>Build your tribe, explore the world and conquer ARK.</>\n\n<RichColor Color=\"0,1,0,1\">Server Features:</>\n<TextStyle.White>• Active administration</>\n<TextStyle.White>• Balanced gameplay</>\n<TextStyle.White>• Events and rewards</>\n<TextStyle.White>• Friendly community</>\n\n<RichColor Color=\"1,0.4,0.4,1\">Good luck survivor!</>"
+          }
+        ]
+      },
+
+      {
+        "layout": 2,
+        "buttontext": "<RichColor Color=\"0.4,1,0.6,1\">SERVER RATES</>",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,0.8,0,1\">Rates</>",
+            "text": "<TextStyle.White>XP: x5</>\n<TextStyle.White>Harvest: x5</>\n<TextStyle.White>Taming: x10</>\n<TextStyle.White>Breeding: x20</>\n<TextStyle.White>Egg Hatch: x20</>\n<TextStyle.White>Maturation: x20</>"
+          },
+          {
+            "title": "<RichColor Color=\"0.3,0.8,1,1\">Cluster Info</>",
+            "text": "<TextStyle.White>• Active admins</>\n<TextStyle.White>• Anti-cheat protection</>\n<TextStyle.White>• Server events</>\n<TextStyle.White>• Growing community</>\n\n<TextStyle.LightBlue>Website:</>\n<TextStyle.White>blackberry.survivalshop.org</>"
+          }
+        ]
+      },
+
+      {
+        "layout": 2,
+        "buttontext": "<RichColor Color=\"1,0.5,0.2,1\">RULES</>",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,0.3,0.3,1\">Main Rules</>",
+            "text": "<TextStyle.White>• Respect all players</>\n<TextStyle.White>• No cheating or exploiting</>\n<TextStyle.White>• No harassment or toxic behavior</>\n<TextStyle.White>• Follow admin instructions</>"
+          },
+          {
+            "title": "<RichColor Color=\"1,0.8,0,1\">Punishments</>",
+            "text": "<TextStyle.White>Breaking the rules may result in:</>\n\n<TextStyle.White>• Warning</>\n<TextStyle.White>• Temporary ban</>\n<TextStyle.White>• Permanent ban</>"
+          }
+        ]
+      }
+    ],
+
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.gg/blackberry"
+      },
+      {
+        "text": "Store",
+        "url": "https://bberry.survivalshop.org"
+      }
+    ],
+
+    "version": 2
+  }
 }
-
-
-
-
-
