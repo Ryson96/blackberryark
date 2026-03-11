@@ -17,7 +17,7 @@
       {
         "layout": 1,
         "buttontext": "<RichColor Color=\"0.8,0.4,1,1\">WELCOME</>",
-        "imageurl": "https://i.imgur.com/kZ0aqnE.jpeg",
+        "imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
         "content": [
           {
             "title": "<RichColor Color=\"0.7,0.9,1,1\">Welcome to BlackBerry Cluster</>",
@@ -29,7 +29,7 @@
       {
         "layout": 2,
         "buttontext": "<RichColor Color=\"0.4,1,0.6,1\">SERVER RATES</>",
-        "imageurl": "https://i.imgur.com/kZ0aqnE.jpeg",
+        "imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
         "content": [
           {
             "title": "<RichColor Color=\"1,0.8,0,1\">Rates</>",
@@ -45,7 +45,7 @@
       {
         "layout": 2,
         "buttontext": "<RichColor Color=\"1,0.5,0.2,1\">RULES</>",
-        "imageurl": "https://i.imgur.com/l0tKlMQ.jpeg",
+        "imageurl": "https://i.imgur.com/C8tidGp.jpeg",
         "content": [
           {
             "title": "<RichColor Color=\"1,0.3,0.3,1\">Main Rules</>",
@@ -73,6 +73,7 @@
     "version": 2
   }
 }
+
 
 
 
