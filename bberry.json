@@ -49,7 +49,7 @@
         "content": [
           {
             "title": "<RichColor Color=\"1,0.3,0.3,1\">Main Rules</>",
-            "text": "<TextStyle.White>• Respect all players</>\n<TextStyle.White>• No cheating or exploiting</>\n<TextStyle.White>• No harassment or toxic behavior</>\n<TextStyle.White>• Follow admin instructions</>"
+            "text": "<RichColor Color=\"1,0.5,0.2,1\">📜 Server Rules</>\n\n<TextStyle.White>By breaking these rules, the administration has the right to choose the severity of the punishment at their own discretion.</>\n\n<RichColor Color=\"1,0.8,0,1\">General Rules:</>\n\n<TextStyle.White>1. Everyone is here voluntarily, so please respect the project administration and other players.</>\n<TextStyle.White>2. Cheats, hacks, and texture exploits are strictly forbidden.</>\n<TextStyle.White>3. Any kind of advertising is prohibited: links to your groups, channels, pages, addresses, or names of other servers. Only allowed with administration approval.</>\n<TextStyle.White>4. Building in artifact caves, note locations, obelisks, supply drops, surface exits on Aberration, terminals on Extinction, entrances to the Aberration zone, large resource spawn areas, and similar locations is prohibited.</>\n<TextStyle.White>5. Blocking or building on player spawn points is prohibited.</>\n<TextStyle.White>6. All spikes, traps, etc. must be removed once the creature is tamed (griffin and wyvern traps may remain open).</>\n<TextStyle.White>7. Building spam across the map is prohibited. All structures from such tribes may be destroyed by admin command without resource compensation.</>\n<TextStyle.White>8. Creating nicknames, tribe names, or creature names containing profanity or insults is prohibited.</>\n<TextStyle.White>9. Profanity and offensive language in chats is prohibited.</>\n<TextStyle.White>10. Interfering with another player's gameplay or their taming process without permission is prohibited.</>\n<TextStyle.White>11. Discussion of politics in game chats or Discord in any form is prohibited.</>\n<TextStyle.White>12. Leaving dinos outside your base (scattering them across the map) is prohibited.</>\n<TextStyle.White>13. Teleporters outside your base must be open for everyone (placing them inside caves or directly at cave entrances is prohibited).</>\n\n<RichColor Color=\"0.7,0.9,1,1\">By playing on our servers or being part of our community, you automatically agree to these rules.</>"
           },
           {
             "title": "<RichColor Color=\"1,0.8,0,1\">Punishments</>",
@@ -73,4 +73,5 @@
     "version": 2
   }
 }
+
 
