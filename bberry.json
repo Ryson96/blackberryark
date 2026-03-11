@@ -17,7 +17,7 @@
 		"tabs": [
 			{
 				"layout": 1,
-				"buttontext": "<RichColor Color=\"0.8,0.1,1,1\">WELCOME</>",
+				"buttontext": "<RichColor Color=\"0.8,1,0.7,0.8\">WELCOME</>",
 				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
 				"content": [
 					{
@@ -28,7 +28,7 @@
 			},
 			{
 				"layout": 2,
-				"buttontext": "<RichColor Color=\"0.4,1,0.3,1\">SERVER RATES</>",
+				"buttontext": "<RichColor Color=\"0.8,1,0.7,0.8\">SERVER RATES</>",
 				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
 				"content": [
 					{
@@ -43,7 +43,7 @@
 			},
 			{
 				"layout": 2,
-				"buttontext": "<RichColor Color=\"1,0.1,0.5,1\">RULES</>",
+				"buttontext": "<RichColor Color=\"0.8,1,0.7,0.8\">RULES</>",
 				"imageurl": "https://i.imgur.com/C8tidGp.jpeg",
 				"content": [
 					{
@@ -58,7 +58,7 @@
 			},
 			{
 				"layout": 4,
-				"buttontext": "<RichColor Color=\"0,0.5,1.2,1\">COMMANDS</>",
+				"buttontext": "<RichColor Color=\"0.8,1,0.7,0.8\">COMMANDS</>",
 				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
 				"content": [
 					{
@@ -81,7 +81,7 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "<RichColor Color=\"1,0.8,0,1\">DONATE</>",
+				"buttontext": "<RichColor Color=\"0.8,1,0.7,0.8\">DONATE</>",
 				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
 				"content": [
 					{
@@ -93,11 +93,11 @@
 		],
 		"links": [
 			{
-				"text": "Discord",
+				"text": "<RichColor Color=\"0.2,0.3,1,1\">Discord</>",
 				"url": "https://discord.gg/blackberry"
 			},
 			{
-				"text": "Store",
+				"text": "<RichColor Color=\"1,0.8,0,0.8\">STORE</>",
 				"url": "https://bberry.survivalshop.org"
 			}
 		],
