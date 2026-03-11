@@ -5,9 +5,9 @@
         {
             "openbutton": 0,
             "hideicon": true,
-            "hideiconafter": 10,
+            "hideiconafter": 20,
             "iconurl": "https://i.imgur.com/UjA5f7S.png",
-            "disableicontext": false,
+            "disableicontext": true,
             "iconposition": 0,
             "icontextcolor": 0,
             "openonstart": true,
@@ -98,4 +98,5 @@
     }
 
 }
+
 
