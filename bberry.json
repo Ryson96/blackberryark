@@ -3,7 +3,7 @@
     {
         "settings":
         {
-            "openbutton": 1,
+            "openbutton": 0,
             "hideicon": true,
             "hideiconafter": 10,
             "iconurl": "https://i.imgur.com/OZ6xOjY.png",
@@ -96,4 +96,5 @@
         ],
         "version": 2
     }
+
 }
