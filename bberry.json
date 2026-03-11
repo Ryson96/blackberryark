@@ -21,8 +21,8 @@
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Welcome to WBUI2!",
-                        "text": "Your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available predefined colors and the syntax for a colorized and bigger letters for the general text:\n\n<TextStyle.LightBlue><TextStyle.LightBlue>LightBlue Text</></>\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n\nYou can use the ARKML syntax to colorize the titles, normal text and button texts. ARKML uses RGBA values to define the colors. Here are some examples:\n\n<RichColor Color=\"1,0,0,1\"><RichColor Color=\"1,0,0,1\">Red Text</></>\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"0,1,0,1\">Green Text</></>\n\nPlease keep in mind that you <TextStyle.Red>NEED TO</> unescape the doublequotes with a backslash!!!"
+                        "title": "Welcome to BlackBerry Cluster!",
+                        "text": "<TextStyle.LightBlue><TextStyle.LightBlue>🌴 Welcome to BLACKBERRY ASA Server 🌴</></>\n\n<RichColor Color=\"1,0.9,0,1\"><RichColor Color=\"1,0.9,0,1\">Survive. Build. Dominate.</></>\n\n<TextStyle.White><TextStyle.White>Welcome survivor! We are glad to see you on our server.</></>\n<TextStyle.White><TextStyle.White>Build your tribe, explore the map and become the strongest.</></>\n\n<RichColor Color=\"0,1,0,1\"><RichColor Color=\"0,1,0,1\">Server Features:</></>\n<TextStyle.White><TextStyle.White>• Active administration</></>\n<TextStyle.White><TextStyle.White>• Balanced gameplay</></>\n<TextStyle.White><TextStyle.White>• Events and rewards</></>\n<TextStyle.White><TextStyle.White>• Friendly community</></>\n\n<RichColor Color=\"1,0.5,0,1\"><RichColor Color=\"1,0.5,0,1\">Important Rules:</></>\n<TextStyle.White><TextStyle.White>• Respect other players</></>\n<TextStyle.White><TextStyle.White>• No cheats or exploits</></>\n<TextStyle.White><TextStyle.White>• Follow admin instructions</></>\n\n<RichColor Color=\"0,0.8,1,1\"><RichColor Color=\"0,0.8,1,1\">Useful Links:</></>\n<TextStyle.LightBlue><TextStyle.LightBlue>🌐 Website: blackberry.survivalshop.org</></>\n<TextStyle.LightBlue><TextStyle.LightBlue>💎 Donate Shop: blackberry.survivalshop.org/shop</></>\n\n<RichColor Color=\"1,0.3,0.3,1\"><RichColor Color=\"1,0.3,0.3,1\">Good luck survivor!</></>\n<TextStyle.White><TextStyle.White>The adventure begins now...</></>"
                     }
                 ]
             },
@@ -98,6 +98,7 @@
     }
 
 }
+
 
 
 
