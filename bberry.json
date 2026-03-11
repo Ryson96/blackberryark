@@ -17,7 +17,7 @@
       {
         "layout": 1,
         "buttontext": "<RichColor Color=\"0.8,0.4,1,1\">WELCOME</>",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "imageurl": "https://i.imgur.com/m5drsnT.gif",
         "content": [
           {
             "title": "<RichColor Color=\"0.7,0.9,1,1\">Welcome to BlackBerry Cluster</>",
@@ -73,6 +73,7 @@
     "version": 2
   }
 }
+
 
 
 
