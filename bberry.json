@@ -1,82 +1,95 @@
 {
-  "WBUI2": {
-    "settings": {
-      "openbutton": 0,
-      "hideicon": true,
-      "hideiconafter": 30,
-      "iconurl": "https://i.imgur.com/Htyo4fj.png",
-      "disableicontext": true,
-      "iconposition": 0,
-      "icontextcolor": 0,
-      "openonstart": true,
-      "openonstartonlynewplayers": true,
-      "updateinterval": 24
-    },
-
-    "tabs": [
-      {
-        "layout": 1,
-        "buttontext": "<RichColor Color=\"0.8,0.4,1,1\">WELCOME</>",
-        "imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
-        "content": [
-          {
-            "title": "<RichColor Color=\"0.7,0.9,1,1\">Welcome to BlackBerry Cluster</>",
-            "text": "<RichColor Color=\"1,0.9,0,1\">Survive • Build • Dominate</>\n\n<TextStyle.White>Welcome survivor!</>\n<TextStyle.White>We are glad to see you on our server.</>\n<TextStyle.White>Build your tribe, explore the world and conquer ARK.</>\n\n<RichColor Color=\"0,1,0,1\">Server Features:</>\n<TextStyle.White>• Active administration</>\n<TextStyle.White>• Balanced gameplay</>\n<TextStyle.White>• Events and rewards</>\n<TextStyle.White>• Friendly community</>\n\n<RichColor Color=\"1,0.4,0.4,1\">Good luck survivor!</>"
-          }
-        ]
-      },
-
-      {
-        "layout": 2,
-        "buttontext": "<RichColor Color=\"0.4,1,0.6,1\">SERVER RATES</>",
-        "imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
-        "content": [
-          {
-            "title": "<RichColor Color=\"1,0.8,0,1\">Rates</>",
-            "text": "<TextStyle.White>XP: x5</>\n<TextStyle.White>Harvest: x5</>\n<TextStyle.White>Taming: x10</>\n<TextStyle.White>Breeding: x20</>\n<TextStyle.White>Egg Hatch: x20</>\n<TextStyle.White>Maturation: x20</>"
-          },
-          {
-            "title": "<RichColor Color=\"0.3,0.8,1,1\">Cluster Info</>",
-            "text": "<TextStyle.White>• Active admins</>\n<TextStyle.White>• Anti-cheat protection</>\n<TextStyle.White>• Server events</>\n<TextStyle.White>• Growing community</>\n\n<TextStyle.LightBlue>Website:</>\n<TextStyle.White>blackberry.survivalshop.org</>"
-          }
-        ]
-      },
-
-      {
-        "layout": 2,
-        "buttontext": "<RichColor Color=\"1,0.5,0.2,1\">RULES</>",
-        "imageurl": "https://i.imgur.com/C8tidGp.jpeg",
-        "content": [
-          {
-            "title": "<RichColor Color=\"1,0.3,0.3,1\">Main Rules</>",
-            "text": "<RichColor Color=\"1,0.5,0.2,1\">Server Rules</>\n\n<TextStyle.White>By breaking these rules, the administration has the right to choose the severity of the punishment at their own discretion.</>\n\n<RichColor Color=\"1,0.8,0,1\">General Rules:</>\n\n<TextStyle.White>1. Everyone is here voluntarily, so please respect the project administration and other players.</>\n\n<TextStyle.White>2. Cheats, hacks, and texture exploits are strictly forbidden.</>\n\n<TextStyle.White>3. Any kind of advertising is prohibited: links to your groups, channels, pages, addresses, or names of other servers. Only allowed with administration approval.</>\n\n<TextStyle.White>4. Building in artifact caves, note locations, obelisks, supply drops, surface exits on Aberration, terminals on Extinction, entrances to the Aberration zone, large resource spawn areas, and similar locations is prohibited.</>\n<TextStyle.White>5. Blocking or building on player spawn points is prohibited.</>\n<TextStyle.White>6. All spikes, traps, etc. must be removed once the creature is tamed (griffin and wyvern traps may remain open).</>\n<TextStyle.White>7. Building spam across the map is prohibited. All structures from such tribes may be destroyed by admin command without resource compensation.</>\n<TextStyle.White>8. Creating nicknames, tribe names, or creature names containing profanity or insults is prohibited.</>\n<TextStyle.White>9. Profanity and offensive language in chats is prohibited.</>\n<TextStyle.White>10. Interfering with another player's gameplay or their taming process without permission is prohibited.</>\n<TextStyle.White>11. Discussion of politics in game chats or Discord in any form is prohibited.</>\n<TextStyle.White>12. Leaving dinos outside your base (scattering them across the map) is prohibited.</>\n<TextStyle.White>13. Teleporters outside your base must be open for everyone (placing them inside caves or directly at cave entrances is prohibited).</>\n\n<RichColor Color=\"0.7,0.9,1,1\">By playing on our servers or being part of our community, you automatically agree to these rules.</>"
-          },
-          {
-            "title": "<RichColor Color=\"1,0.8,0,1\">Punishments</>",
-            "text": "<TextStyle.White>Breaking the rules may result in:</>\n\n<TextStyle.White>• Warning</>\n<TextStyle.White>• Temporary ban</>\n<TextStyle.White>• Permanent ban</>"
-          }
-        ]
-      }
-    ],
-
-    "links": [
-      {
-        "text": "Discord",
-        "url": "https://discord.gg/blackberry"
-      },
-      {
-        "text": "Store",
-        "url": "https://bberry.survivalshop.org"
-      }
-    ],
-
-    "version": 2
-  }
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": true,
+			"hideiconafter": 30,
+			"iconurl": "https://i.imgur.com/Htyo4fj.png",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 24
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "<RichColor Color=\"0.8,0.4,1,1\">WELCOME</>",
+				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.7,0.9,1,1\">Welcome to BlackBerry Cluster</>",
+						"text": "<RichColor Color=\"1,0.9,0,1\">Survive • Build • Dominate</>\r\n\r\n<TextStyle.White>Welcome survivor!</>\r\n<TextStyle.White>We are glad to see you on our server.</>\r\n<TextStyle.White>Build your tribe, explore the world and conquer ARK.</>\r\n\r\n<RichColor Color=\"0,1,0,1\">Server Features:</>\r\n<TextStyle.White>• Active administration</>\r\n<TextStyle.White>• Balanced gameplay</>\r\n<TextStyle.White>• Events and rewards</>\r\n<TextStyle.White>• Friendly community</>\r\n\r\n<RichColor Color=\"1,0.4,0.4,1\">Good luck survivor!</>"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "<RichColor Color=\"0.4,1,0.6,1\">SERVER RATES</>",
+				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0.8,0,1\">Rates</>",
+						"text": "<TextStyle.White>XP: x5</>\r\n<TextStyle.White>Harvest: x5</>\r\n<TextStyle.White>Taming: x10</>\r\n<TextStyle.White>Breeding: x20</>\r\n<TextStyle.White>Egg Hatch: x20</>\r\n<TextStyle.White>Maturation: x20</>"
+					},
+					{
+						"title": "<RichColor Color=\"0.3,0.8,1,1\">Cluster Info</>",
+						"text": "<TextStyle.White>• Active admins</>\n<TextStyle.White>• Anti-cheat protection</>\n<TextStyle.White>• Server events</>\n<TextStyle.White>• Growing community</>\n\n<TextStyle.LightBlue>Website:</>\n<TextStyle.White>blackberry.survivalshop.org</>"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "<RichColor Color=\"1,0.1,0.5,1\">RULES</>",
+				"imageurl": "https://i.imgur.com/C8tidGp.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0.3,0.3,1\">Server Rules</>",
+						"text": "<TextStyle.White>1. You are here voluntarily, so please respect the server staff and other players.</>\r\n\r\n<TextStyle.White>2. Cheats, hacks, and texture exploits are strictly forbidden.</>\r\n\r\n<TextStyle.White>3. Any kind of advertising is prohibited: links to your groups, channels, pages, addresses, or names of other servers. Only allowed with administration approval.</>\r\n\r\n<TextStyle.White>4. Building in artifact caves, note locations, obelisks, supply drops, surface exits on Aberration, terminals on Extinction, entrances to the Aberration zone, large resource spawn areas, and similar locations is prohibited.</>\r\n\r\n<TextStyle.White>5. Blocking or building on player spawn points is prohibited.</>\r\n\r\n<TextStyle.White>6. All spikes, traps, etc. must be removed once the creature is tamed (griffin and wyvern traps may remain open).</>\r\n\r\n<TextStyle.White>7. Building spam across the map is prohibited. All structures from such tribes may be destroyed by admin command without resource compensation.</>\r\n\r\n<TextStyle.White>8. Creating nicknames, tribe names, or creature names containing profanity or insults is prohibited.</>\r\n\r\n<TextStyle.White>9. Profanity and offensive language in chats is prohibited.</>\r\n\r\n<TextStyle.White>10. Interfering with another player's gameplay or their taming process without permission is prohibited.</>\r\n\r\n<TextStyle.White>11. Discussion of politics in game chats or Discord in any form is prohibited.</>\r\n\r\n<TextStyle.White>12. Leaving dinos outside your base (scattering them across the map) is prohibited.</>\r\n\r\n<TextStyle.White>13. Teleporters outside your base must be open for everyone (placing them inside caves or directly at cave entrances is prohibited).</>\r\n\r\n<RichColor Color=\"0.7,0.9,1,1\">By playing on our servers or being part of our community, you automatically agree to these rules.</>"
+					},
+					{
+						"title": "<RichColor Color=\"1,0.8,0,1\">Punishments</>",
+						"text": "<TextStyle.White>By breaking these rules, the administration has the right to choose the severity of the punishment at their own discretion.</>\r\n\r\n<TextStyle.White>Breaking the rules may result in:</>\r\n<TextStyle.White>• Warning</>\r\n<TextStyle.White>• Temporary ban</>\r\n<TextStyle.White>• Permanent ban</>"
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "<RichColor Color=\"1,0.5,0.2,1\">COMMANDS</>",
+				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0.3,0.3,1\">1</>",
+						"text": "New Text"
+					},
+					{
+						"title": "2",
+						"text": ""
+					},
+					{
+						"title": "3",
+						"text": ""
+					},
+					{
+						"title": "4",
+						"text": ""
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/blackberry"
+			},
+			{
+				"text": "Store",
+				"url": "https://bberry.survivalshop.org"
+			}
+		],
+		"version": 2
+	}
 }
-
-
-
-
-
-
-
