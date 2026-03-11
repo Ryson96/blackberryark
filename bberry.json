@@ -17,7 +17,7 @@
 		"tabs": [
 			{
 				"layout": 1,
-				"buttontext": "<RichColor Color=\"0.8,0.4,1,1\">WELCOME</>",
+				"buttontext": "<RichColor Color=\"0.8,0.1,1,1\">WELCOME</>",
 				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
 				"content": [
 					{
@@ -28,16 +28,16 @@
 			},
 			{
 				"layout": 2,
-				"buttontext": "<RichColor Color=\"0.4,1,0.6,1\">SERVER RATES</>",
+				"buttontext": "<RichColor Color=\"0.4,1,0.3,1\">SERVER RATES</>",
 				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
 				"content": [
 					{
 						"title": "<RichColor Color=\"1,0.8,0,1\">Rates</>",
-						"text": "<TextStyle.White>XP: x5</>\r\n<TextStyle.White>Harvest: x5</>\r\n<TextStyle.White>Taming: x10</>\r\n<TextStyle.White>Breeding: x20</>\r\n<TextStyle.White>Egg Hatch: x20</>\r\n<TextStyle.White>Maturation: x20</>"
+						"text": "<TextStyle.White>XP: x3</>\r\n<TextStyle.White>Harvest: x5</>\r\n<TextStyle.White>Taming: x10</>\r\n<TextStyle.White>Breeding: x?</>\r\n<TextStyle.White>Egg Hatch: x?</>\r\n<TextStyle.White>Maturation: x?</>"
 					},
 					{
 						"title": "<RichColor Color=\"0.3,0.8,1,1\">Cluster Info</>",
-						"text": "<TextStyle.White>• Active admins</>\n<TextStyle.White>• Anti-cheat protection</>\n<TextStyle.White>• Server events</>\n<TextStyle.White>• Growing community</>\n\n<TextStyle.LightBlue>Website:</>\n<TextStyle.White>blackberry.survivalshop.org</>"
+						"text": "<TextStyle.White>• Active admins</>\r\n<TextStyle.White>• Anti-cheat protection</>\r\n<TextStyle.White>• Server events</>\r\n<TextStyle.White>• Growing community</>\r\n\r\n<TextStyle.LightBlue>Website:</>\r\n<TextStyle.White>blackberry.survivalshop.org</>"
 					}
 				]
 			},
@@ -58,24 +58,35 @@
 			},
 			{
 				"layout": 4,
-				"buttontext": "<RichColor Color=\"1,0.5,0.2,1\">COMMANDS</>",
+				"buttontext": "<RichColor Color=\"0,0.5,1.2,1\">COMMANDS</>",
 				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
 				"content": [
 					{
 						"title": "<RichColor Color=\"1,0.3,0.3,1\">1</>",
-						"text": "New Text"
+						"text": "Soon..."
 					},
 					{
 						"title": "2",
-						"text": ""
+						"text": "Soon..."
 					},
 					{
 						"title": "3",
-						"text": ""
+						"text": "Soon..."
 					},
 					{
 						"title": "4",
-						"text": ""
+						"text": "Soon..."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "<RichColor Color=\"1,0.8,0,1\">DONATE</>",
+				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"0.7,0.9,1,1\">Thank you for support!</>",
+						"text": "Soon..."
 					}
 				]
 			}
