@@ -21,7 +21,7 @@
         "content": [
           {
             "title": "<RichColor Color=\"0.7,0.9,1,1\">Welcome to BlackBerry Cluster</>",
-            "text": "<TextStyle.LightBlue>🌴 Welcome to BLACKBERRY ASA Server 🌴</>\n\n<RichColor Color=\"1,0.9,0,1\">Survive • Build • Dominate</>\n\n<TextStyle.White>Welcome survivor!</>\n<TextStyle.White>We are glad to see you on our server.</>\n<TextStyle.White>Build your tribe, explore the world and conquer ARK.</>\n\n<RichColor Color=\"0,1,0,1\">Server Features:</>\n<TextStyle.White>• Active administration</>\n<TextStyle.White>• Balanced gameplay</>\n<TextStyle.White>• Events and rewards</>\n<TextStyle.White>• Friendly community</>\n\n<RichColor Color=\"1,0.4,0.4,1\">Good luck survivor!</>"
+            "text": "<RichColor Color=\"1,0.9,0,1\">Survive • Build • Dominate</>\n\n<TextStyle.White>Welcome survivor!</>\n<TextStyle.White>We are glad to see you on our server.</>\n<TextStyle.White>Build your tribe, explore the world and conquer ARK.</>\n\n<RichColor Color=\"0,1,0,1\">Server Features:</>\n<TextStyle.White>• Active administration</>\n<TextStyle.White>• Balanced gameplay</>\n<TextStyle.White>• Events and rewards</>\n<TextStyle.White>• Friendly community</>\n\n<RichColor Color=\"1,0.4,0.4,1\">Good luck survivor!</>"
           }
         ]
       },
@@ -73,3 +73,4 @@
     "version": 2
   }
 }
+
