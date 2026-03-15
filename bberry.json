@@ -4,14 +4,14 @@
 		"settings":
 		{
 			"openbutton": 0,
-			"hideicon": true,
+			"hideicon": false,
 			"hideiconafter": 20,
-			"iconurl": "https://i.imgur.com/YB5Shmp.png",
+			"iconurl": "https://i.imgur.com/uA9cSb5.png",
 			"disableicontext": true,
-			"iconposition": 0,
-			"icontextcolor": 4,
+			"iconposition": 3,
+			"icontextcolor": 2,
 			"openonstart": true,
-			"openonstartonlynewplayers": false,
+			"openonstartonlynewplayers": true,
 			"updateinterval": 24
 		},
 		"tabs": [
@@ -21,8 +21,8 @@
 				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
 				"content": [
 					{
-						"title": "<RichColor Color=\"0.7,0.9,1,1\">Welcome to BlackBerry Cluster</>",
-						"text": "<RichColor Color=\"1,0.9,0,1\">Survive • Build • Dominate</>\r\n\r\n<TextStyle.White>Welcome survivor!</>\r\n<TextStyle.White>We are glad to see you on our server.</>\r\n<TextStyle.White>Build your tribe, explore the world and conquer ARK.</>\r\n\r\n<RichColor Color=\"0,1,0,1\">Server Features:</>\r\n<TextStyle.White>• Active administration</>\r\n<TextStyle.White>• Balanced gameplay</>\r\n<TextStyle.White>• Events and rewards</>\r\n<TextStyle.White>• Friendly community</>\r\n\r\n<RichColor Color=\"1,0.4,0.4,1\">Good luck survivor!</>"
+						"title": "<RichColor Color=\"1,0.8,0,1\">Welcome to BlackBerry Cluster</>",
+						"text": "<RichColor Color=\"0,1,0,1\">Thank you for visiting and enjoy your game!</>\r\n\r\n<TextStyle.White>Join our Discord for updates and community fun. The buttons are located at the bottom.</>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<RichColor Color=\"1,0.9,0,1\">To reopen this menu, press:</>\r\nF1 for info\r\nor Radial Menu:\r\n<TextStyle.White>Windows:</> Hold the \"R\" key\r\n<TextStyle.White>PlayStation:</> Hold the Square button\r\n<TextStyle.White>Xbox:</> Hold the X button"
 					}
 				]
 			},
