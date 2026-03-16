@@ -16,17 +16,17 @@
 		},
 		"tabs": [
 			{
-				"layout": 3,
+				"layout": 2,
 				"buttontext": "<RichColor Color=\"0.8,1,0.7,0.8\">WELCOME</>",
 				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
 				"content": [
 					{
 						"title": "<RichColor Color=\"1,0.8,0,1\">Welcome to BlackBerry Cluster</>",
-						"text": "<TextStyle.Violet>Thank you for visiting and enjoy your game!</>\r\n\r\nDiscord Invite Code: BlackBerry\r\n<RichColor Color=\"0.7,1,0.7,1\">Join our Discord for updates and community fun. The buttons are located at the bottom.</>"
+						"text": "<TextStyle.Violet>Thank you for joining our server.</>\r\n<TextStyle.Violet>We hope you enjoy your adventure!</>\r\n<RichColor Color=\"1,1,1,0.5\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</>\r\n🎮 Server Features\r\n• Friendly and active community\r\n• Regular events and giveaways\r\n• Balanced gameplay\r\n• Custom rewards and bonuses\r\n<RichColor Color=\"1,1,1,0.5\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</>\r\nTO REOPEN THIS MENU\r\n<RichColor Color=\"0.5,0.5,0,1\">Press F1 or Radial Menu:</>\r\nWindows: <RichColor Color=\"1,1,1,1\">Hold the \"R\" key</>\r\nPlayStation: <RichColor Color=\"1,1,1,1\">Hold the Square button</>\r\nXbox: <RichColor Color=\"1,1,1,1\">Hold the X button</>\r\n\r\nI m p o r t a n t\r\n<RichColor Color=\"1,1,1,1\">Please respect other players and follow the server rules.</>\r\n<RichColor Color=\"1,1,1,0.5\">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</>\r\nDiscord Invite Code: <RichColor Color=\"0.2,0.3,1,1\">BlackBerry</>\r\n<RichColor Color=\"0.7,1,0.7,1\">Join our Discord to stay updated with news, events, giveaways and Community & Support.</>"
 					},
 					{
 						"title": "<RichColor Color=\"1,0.8,0,1\">Rates</> & <RichColor Color=\"1,0.8,0,1\">Cluster Info</>",
-						"text": "R A T E S \r\n» <RichColor Color=\"1,1,1,1\">Taming x10</>\r\n» <RichColor Color=\"1,1,1,1\">Gathering x5</>\r\n» <RichColor Color=\"1,1,1,1\">Experience x3</>\r\n» <RichColor Color=\"1,1,1,1\">Incubation Speed x10</>\r\n» <RichColor Color=\"1,1,1,1\">Baby Mature Speed x10</>\r\n» <RichColor Color=\"1,1,1,1\">Weight Capacity x10</>\r\n» <RichColor Color=\"1,1,1,1\">Mating Speed x5</>\r\n» <RichColor Color=\"1,1,1,1\">Max level wild dinos 150</>\r\n» <RichColor Color=\"1,1,1,1\">Structure Limit ?,000</>\r\n\r\nP L A Y E R   S T A T   R A T E S\r\n» <RichColor Color=\"1,1,1,1\">Health: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Stamina: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Oxygen: +40 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Food: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Water: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Weight: +100 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Melee: +5 % per level</>\r\n» <RichColor Color=\"1,1,1,1\">Speed: +3 % per level</>\r\n» <RichColor Color=\"1,1,1,1\">Crafting: +10 % per level</>\r\n» <RichColor Color=\"1,1,1,1\">Torpor: +5 per level</>\r\n\r\nM A P S   A V A I L A B L E\r\n<RichColor Color=\"1,1,1,1\">Island • Scorched Earth • Center</>\r\n<RichColor Color=\"1,1,1,1\">Aberration • Extinction • Ragnarok</>\r\n<RichColor Color=\"1,1,1,1\">Astraeos • Valguero • Lost Colony</>"
+						"text": "R A T E S \r\n» <RichColor Color=\"1,1,1,1\">Taming x10</>\r\n» <RichColor Color=\"1,1,1,1\">Gathering x5</>\r\n» <RichColor Color=\"1,1,1,1\">Experience x3</>\r\n» <RichColor Color=\"1,1,1,1\">Incubation Speed x10</>\r\n» <RichColor Color=\"1,1,1,1\">Baby Mature Speed x10</>\r\n» <RichColor Color=\"1,1,1,1\">Weight Capacity x10</>\r\n» <RichColor Color=\"1,1,1,1\">Mating Speed x5</>\r\n» <RichColor Color=\"1,1,1,1\">Max level wild dinos 150</>\r\n\r\nP L A Y E R   S T A T   R A T E S\r\n» <RichColor Color=\"1,1,1,1\">Health: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Stamina: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Oxygen: +40 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Food: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Water: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Weight: +100 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Melee: +5 % per level</>\r\n» <RichColor Color=\"1,1,1,1\">Speed: +3 % per level</>\r\n» <RichColor Color=\"1,1,1,1\">Crafting: +10 % per level</>\r\n» <RichColor Color=\"1,1,1,1\">Torpor: +5 per level</>\r\n\r\nM A P S   A V A I L A B L E\r\n<RichColor Color=\"1,1,1,1\">Island • Scorched Earth • Center</>\r\n<RichColor Color=\"1,1,1,1\">Aberration • Extinction • Ragnarok</>\r\n<RichColor Color=\"1,1,1,1\">Astraeos • Valguero • Lost Colony</>"
 					},
 					{
 						"title": "<RichColor Color=\"1,0.9,0,1\">To reopen this menu</>",
@@ -94,7 +94,7 @@
 				"url": "https://discord.gg/blackberry"
 			},
 			{
-				"text": "<RichColor Color=\"0.7,0.7,0,0.7\">STORE</>",
+				"text": "<RichColor Color=\"0.7,0.5,0,0.8\">STORE</>",
 				"url": "https://bberry.survivalshop.org"
 			}
 		],
