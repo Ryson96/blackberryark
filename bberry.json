@@ -16,28 +16,25 @@
 		},
 		"tabs": [
 			{
-				"layout": 1,
+				"layout": 3,
 				"buttontext": "<RichColor Color=\"0.8,1,0.7,0.8\">WELCOME</>",
 				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
 				"content": [
 					{
 						"title": "<RichColor Color=\"1,0.8,0,1\">Welcome to BlackBerry Cluster</>",
-						"text": "<RichColor Color=\"0,1,0,1\">Thank you for visiting and enjoy your game!</>\r\n\r\n<TextStyle.White>Join our Discord for updates and community fun. The buttons are located at the bottom.</>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<RichColor Color=\"1,0.9,0,1\">To reopen this menu, press:</>\r\nF1 for info\r\nor Radial Menu:\r\n<TextStyle.White>Windows:</> Hold the \"R\" key\r\n<TextStyle.White>PlayStation:</> Hold the Square button\r\n<TextStyle.White>Xbox:</> Hold the X button"
-					}
-				]
-			},
-			{
-				"layout": 2,
-				"buttontext": "<RichColor Color=\"0.8,1,0.7,0.8\">SERVER RATES</>",
-				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
-				"content": [
-					{
-						"title": "<RichColor Color=\"1,0.8,0,1\">Rates</>",
-						"text": "<TextStyle.White>XP: x3</>\r\n<TextStyle.White>Harvest: x5</>\r\n<TextStyle.White>Taming: x10</>\r\n<TextStyle.White>Breeding: x?</>\r\n<TextStyle.White>Egg Hatch: x?</>\r\n<TextStyle.White>Maturation: x?</>"
+						"text": "<RichColor Color=\"0,1,0,1\">Thank you for visiting and enjoy your game!</>\r\n\r\n<TextStyle.White>Join our Discord for updates and community fun. The buttons are located at the bottom.</>\r\n\r\nＭＡＰＳ　ＡＶＡＩＬＡＢＬＥ\r\n\r\n"
 					},
 					{
-						"title": "<RichColor Color=\"0.3,0.8,1,1\">Cluster Info</>",
-						"text": "<TextStyle.White>• Active admins</>\r\n<TextStyle.White>• Anti-cheat protection</>\r\n<TextStyle.White>• Server events</>\r\n<TextStyle.White>• Growing community</>\r\n\r\n<TextStyle.LightBlue>Website:</>\r\n<TextStyle.White>blackberry.survivalshop.org</>"
+						"title": "<RichColor Color=\"1,0.8,0,1\">Rates</> & <RichColor Color=\"1,0.8,0,1\">Cluster Info</>",
+						"text": "<TextStyle.White>XP: x3</>\r\n<TextStyle.White>Harvest: x5</>\r\n<TextStyle.White>Taming: x10</>\r\n<TextStyle.White>Breeding: x?</>\r\n<TextStyle.White>Egg Hatch: x?</>\r\n<TextStyle.White>Maturation: x?</>\r\n\r\n# XP Multiplier: 0.75x\r\n# Harvest Multiplier: 1x\r\n# Taming Multiplier: 2x\r\n# Official Armour & Saddle Caps\r\n# PvE Cave Building Enabled\r\n# Mods\r\n  - 'Vanilla With Sprinkles!'\r\n  - 'Solo Farm!'\r\n\r\nＭＡＰＳ　ＡＶＡＩＬＡＢＬＥ\r\n<RichColor Color=\"1,1,1,1\">Island • Scorched Earth • Center</>\r\n<RichColor Color=\"1,1,1,1\">Aberration • Extinction • Ragnarok</>\r\n<RichColor Color=\"1,1,1,1\">Astraeos • Valguero • Lost Colony</>"
+					},
+					{
+						"title": "<RichColor Color=\"1,0.9,0,1\">To reopen this menu</>",
+						"text": "<TextStyle.White>Press: F1 for info</>\r\n<RichColor Color=\"1,0.7,0.7,0.8\">or Radial Menu:</>\r\nWindows: <RichColor Color=\"1,1,1,1\">Hold the \"R\" key</>\r\nPlayStation: <RichColor Color=\"1,1,1,1\">Hold the Square button</>\r\nXbox: <RichColor Color=\"1,1,1,1\">Hold the X button</>"
+					},
+					{
+						"title": "<RichColor Color=\"1,0.9,0,1\">To reopen this menu</>",
+						"text": "Press: F1 for info\r\nor Radial Menu:\r\n<TextStyle.White>Windows:</> Hold the \"R\" key\r\n<TextStyle.White>PlayStation:</> Hold the Square button\r\n<TextStyle.White>Xbox:</> Hold the X button"
 					}
 				]
 			},
