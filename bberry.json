@@ -6,7 +6,7 @@
 			"openbutton": 0,
 			"hideicon": false,
 			"hideiconafter": 20,
-			"iconurl": "https://i.imgur.com/uA9cSb5.png",
+			"iconurl": "https://i.imgur.com/Z57IYZX.png",
 			"disableicontext": true,
 			"iconposition": 3,
 			"icontextcolor": 2,
@@ -26,7 +26,7 @@
 					},
 					{
 						"title": "<RichColor Color=\"1,0.8,0,1\">Rates</> & <RichColor Color=\"1,0.8,0,1\">Cluster Info</>",
-						"text": "R A T E S \r\n» <RichColor Color=\"1,1,1,1\">Taming x10</>\r\n» <RichColor Color=\"1,1,1,1\">Gathering x5</>\r\n» <RichColor Color=\"1,1,1,1\">Experience x3</>\r\n» <RichColor Color=\"1,1,1,1\">Incubation Speed x10</>\r\n» <RichColor Color=\"1,1,1,1\">Baby Mature Speed x10</>\r\n» <RichColor Color=\"1,1,1,1\">Weight Capacity x10</>\r\n» <RichColor Color=\"1,1,1,1\">Mating Speed x5</>\r\n» <RichColor Color=\"1,1,1,1\">Max level wild dinos 150</>\r\n\r\nP L A Y E R   S T A T   R A T E S\r\n» <RichColor Color=\"1,1,1,1\">Health: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Stamina: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Oxygen: +40 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Food: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Water: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Weight: +100 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Melee: +5 % per level</>\r\n» <RichColor Color=\"1,1,1,1\">Speed: +3 % per level</>\r\n» <RichColor Color=\"1,1,1,1\">Crafting: +10 % per level</>\r\n» <RichColor Color=\"1,1,1,1\">Torpor: +5 per level</>\r\n\r\nM A P S   A V A I L A B L E\r\n<RichColor Color=\"1,1,1,1\">Island • Scorched Earth • Center</>\r\n<RichColor Color=\"1,1,1,1\">Aberration • Extinction • Ragnarok</>\r\n<RichColor Color=\"1,1,1,1\">Astraeos • Valguero • Lost Colony</>"
+						"text": "R A T E S \r\n» <RichColor Color=\"1,1,1,1\">Taming: x10</>\r\n» <RichColor Color=\"1,1,1,1\">Gathering: x5</>\r\n» <RichColor Color=\"1,1,1,1\">Experience: x3</>\r\n» <RichColor Color=\"1,1,1,1\">Incubation Speed: x10</>\r\n» <RichColor Color=\"1,1,1,1\">Baby Maturation Speed: x10</>\r\n» <RichColor Color=\"1,1,1,1\">Mating Speed: x5</>\r\n» <RichColor Color=\"1,1,1,1\">Mating Interval: x5</>\r\n» <RichColor Color=\"1,1,1,1\">Max Wild Dino Level: 150</>\r\n\r\nP L A Y E R   S T A T   R A T E S\r\n» <RichColor Color=\"1,1,1,1\">Health: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Stamina: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Oxygen: +40 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Food: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Water: +20 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Weight: +100 per level</>\r\n» <RichColor Color=\"1,1,1,1\">Melee: +5% per level</>\r\n» <RichColor Color=\"1,1,1,1\">Speed: +3% per level</>\r\n» <RichColor Color=\"1,1,1,1\">Crafting: +10% per level</>\r\n» <RichColor Color=\"1,1,1,1\">Torpor: +5 per level</>\r\n\r\nM A P S\r\n<RichColor Color=\"1,1,1,1\">Island • Scorched Earth • Center</>\r\n<RichColor Color=\"1,1,1,1\">Aberration • Extinction • Ragnarok</>\r\n<RichColor Color=\"1,1,1,1\">Astraeos • Valguero • Lost Colony</>"
 					},
 					{
 						"title": "<RichColor Color=\"1,0.9,0,1\">To reopen this menu</>",
@@ -71,8 +71,8 @@
 						"text": "Soon..."
 					},
 					{
-						"title": "4",
-						"text": "Soon..."
+						"title": "VIP",
+						"text": " \"OptInCommand\": \"/ron\", Команда для восстановления\r\n    \"OptOutCommand\": \"/roff\" Команда для не восстановления"
 					}
 				]
 			},
