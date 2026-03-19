@@ -75,17 +75,6 @@
 						"text": " \"OptInCommand\": \"/ron\", Команда для восстановления\r\n    \"OptOutCommand\": \"/roff\" Команда для не восстановления"
 					}
 				]
-			},
-			{
-				"layout": 1,
-				"buttontext": "<RichColor Color=\"0.8,1,0.7,0.8\">DONATE</>",
-				"imageurl": "https://i.imgur.com/G8lQhtY.jpeg",
-				"content": [
-					{
-						"title": "<RichColor Color=\"0.7,0.9,1,1\">Thank you for support!</>",
-						"text": "Soon..."
-					}
-				]
 			}
 		],
 		"links": [
